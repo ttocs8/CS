@@ -1,2 +1,2 @@
-# CS
-Projects from CS, Spring 2019
+# hunts5-EECS-Programming
+EECS-Programming created for hunts5
